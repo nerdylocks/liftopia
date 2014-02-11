@@ -21,5 +21,7 @@ To see unit test results in action, you need to have karma installed globally.
       $ npm install -g karma
       $ karma start karma.conf.js
       
+## Thanks!      
+      
       
       
