@@ -6,6 +6,8 @@ For this excercise, I've created a simple AngularJS application that retrieves d
 
 I've utilized yeoman to generate the app's scaffolding, firebase for data storage and karma-jasmine for unit testing.
 
+Once user clicks on "Get Tahoe Status", the app makes 3 ajax calls, maps and stores the returned data into an angular model, then persists data to firebase. Since view and model are already binded via angulars "$scope", the view will automatically update.
+
 ## Installation
 
       $ git clone https://github.com/nerdylocks/liftopia abiy-excercise
