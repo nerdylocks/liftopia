@@ -8,7 +8,7 @@ I've utilized yeoman to generate the app's scaffolding, firebase for data storag
 
 ## Installation
 
-      $ git clone https://github.com/nerdylocks/liftopia
+      $ git clone https://github.com/nerdylocks/liftopia abiy-excercise
       $ cd liftopia
       $ bower install
       
